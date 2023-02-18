@@ -12,5 +12,5 @@
 * The ENIs are created automatically when create an instance, thus are elimiated when we terminate the instance. The ENI that are created manually are kept even after instance deletion.
 
 ```
-Hands - On : ENI : creation and attachment to ec2 instance
+Pending Hands - On : ENI : creation and attachment to ec2 instance
 ```

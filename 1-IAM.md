@@ -107,4 +107,4 @@ Hands-ON : Access Advisor in AWS & removing un-necessary roles
 
 # <center>Summary
 
-![](2023-01-13-21-22-46.png)
+![](images/2023-01-13-21-22-46.png)
